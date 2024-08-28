@@ -16,7 +16,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-          <a className="navbar-brand" href="#">Sellers</a>
+          <p className="navbar-brand">Sellers</p>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto">
               <li className="nav-item active">
