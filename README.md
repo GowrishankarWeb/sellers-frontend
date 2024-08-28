@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
-### `npm install`
+### `npm install` 
 For installing node packages.
+
+### `npm install bootstrap` 
+For installing bootstrap for this, otherwise it won't run.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
