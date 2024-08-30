@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter, Routes, Route, Link, useNavigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Sellers from './components/Sellers';
 import Login from './components/Login';
 
